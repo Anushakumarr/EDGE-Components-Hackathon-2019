@@ -1,9 +1,9 @@
 # EDGE-Components-Hackathon-2019
 
-#Locate On Map
+##Locate On Map
 Locate on Map is a web component developed using angular 7 and bootstrap. This component is used to locate places on map. Further User can search for hospitals, schools, ATM in map for specified location and also find directions from one source place to destination place.
 
-#Getting started
+##Getting started
 Installing
 Following packages need to install in project
 
